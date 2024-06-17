@@ -23,9 +23,9 @@
   "roguecraft.item.unready": "Sair",
   "roguecraft.item.join_run": "Entrar",
   "roguecraft.item.remove_upgrade": "Desaprimorador",
-  "roguecraft.item.scythe": "Foice %s",
+  "roguecraft.item.scythe": "Foice %s",     // É capaz de rolar um 'Foice Ouro', necessário testes para ver o que podemos mudar
   
-  "roguecraft.prefix.wooden": "Madeira",
+  "roguecraft.prefix.wooden": "Madeira",    // Essa sequência precisa de teste pra ver se os prefixos estão escritos certo
   "roguecraft.prefix.stone": "Pedra",
   "roguecraft.prefix.golden": "Ouro",
   "roguecraft.prefix.iron": "Ferro",
@@ -36,8 +36,8 @@
   "roguecraft.bossbar.liquid_walker": "Jesus",
   "roguecraft.bossbar.dirt_walker": "Passos de Terra",
   "roguecraft.bossbar.ender_dragon": "Ender",
-  "roguecraft.bossbar.wildfire": "Chama", // Refêrencia a Ben 10 (Já que na gringa o Chama é Wildfire)
-  "roguecraft.bossbar.wildfire_variant": "Petro", // Deu vontade de colocar "Fogo-Fato" aqui kkkk
+  "roguecraft.bossbar.wildfire": "Chama",           // Refêrencia a Ben 10 (Já que na gringa o Chama é Wildfire)
+  "roguecraft.bossbar.wildfire_variant": "Petro",   // Deu vontade de colocar "Fogo-Fato" aqui kkkk
   "roguecraft.bossbar.wave": "Onda %s",
   "roguecraft.bossbar.run": "Tentativa %s",
   "roguecraft.bossbar.wait": "Espere o Terreno carregar",
@@ -91,10 +91,10 @@
   "roguecraft.chat_messages.upgrade_buy": "Você aprimorou %s",
   "roguecraft.chat_messages.upgrade_sell": "Você desaprimorou %s",
   "roguecraft.chat_messages.error_max": "%s já está no nível máximo",
-  "roguecraft.chat_messages.error_min": "Não é possível desaprimorar %s mais que isso",
+  "roguecraft.chat_messages.error_min": "Não é possível desaprimorar mais que isso",
   "roguecraft.chat_messages.error_max_incomplete": "Aprimoramentos de %s esgotados; derrote mais bosses para quebrar seu limite",
-  "roguecraft.chat_messages.error_too_expensive": "Você não possui pontos o suficiente para %s",
-  "roguecraft.chat_messages.error_selling": "Agache enquanto segura %s para remover %s",
+  "roguecraft.chat_messages.error_too_expensive": "Você não possui pontos o suficiente para esse(a) %s",
+  "roguecraft.chat_messages.error_selling": "Agache enquanto segura o %s para remover o(a) %s",
   "roguecraft.chat_messages.ability_error_item": "Você não liberou %s ainda; compre-o clicando com as mãos vazias, e então equipe",
   "roguecraft.chat_messages.ability_equip": "Você equipou %s como sua %s %s",
   "roguecraft.chat_messages.ability_unbind": "Your %s ability item has been unbound",
@@ -112,7 +112,7 @@
   
   "roguecraft.chat_messages.unlock_upgrades": "Novos upgrades liberados ao ter derrotado um boss!",
   
-  "roguecraft.chat_messages.chester": "O espírito sorriu sobre você...",
+  "roguecraft.chat_messages.chester": "O espírito sorriu para você...",
   
   "roguecraft.hub.name.upgrades": "Upgrades",
   "roguecraft.hub.name.abilities": "Habilidades",
@@ -196,7 +196,7 @@
   "roguecraft.class.description.mage": "Aumenta sua Regeneração de Mana, além de lhe dar mais um slot de Habilidade",
   "roguecraft.class.description.healer": "Regenera a vida de Players próximos; Habilidade: Reviva um Player com um custo de 4 corações",
   "roguecraft.class.description.glass_cannon": "Converte armadura em dano; Habilidade: O ataque é a melhor defesa!",
-  "roguecraft.class.description.reaper": "Use almas ao invés de mana; Habilidade: Libere espíritos malignos~!",
+  "roguecraft.class.description.reaper": "Use almas ao invés de mana; Habilidade: Libere espíritos malignos",
   "roguecraft.class_ability.tank": "Escudo Impenetrável",
   "roguecraft.class_ability.healer": "Revitalizar",
   "roguecraft.class_ability.healer_error_no_health": "Você precisa de 4 corações para usar essa habilidade",
@@ -260,15 +260,15 @@
   "roguecraft.advancement.description.first_ability": "Libere sua primeira habilidade",
   
   "roguecraft.obelisk.corpus.inactive": "...",
-  "roguecraft.obelisk.sol.inactive": "You are unworthy of my presence, fool. Now begone!",
-  "roguecraft.obelisk.custos.main": "I am the protector of the nether fortress. Face me at the birthplace of the blazes.",
-  "roguecraft.obelisk.custos.defeat": "I was the Wildfire, the hovering inferno...",
-  "roguecraft.obelisk.aqua.inactive": "Error 423: Locked.",
-  "roguecraft.obelisk.tyrannus.main": "I am the dragon of the end. Slay the guardian of the nether fortress if you wish to face me.",
-  "roguecraft.obelisk.tyrannus.defeat": "I was the Ender Dragon, the tyrant of the End...",
-  "roguecraft.obelisk.anima.inactive": "Born to protect, my power is ever growing. Face me once I've reached my prime, shall you wish to face my master.",
-  "roguecraft.obelisk.fatum.inactive": "The time is not quite right, eternal soul. I must ask for your patience.",
-  "roguecraft.obelisk.divus.inactive": "* The presence of this obelisk fills you with dread.",
+  "roguecraft.obelisk.sol.inactive": "Um ser pequeno como ti não é digno de minha presença. Suma!",
+  "roguecraft.obelisk.custos.main": "Eu sou aquele que detém da proteção das Fortalezas do Inferno. Encontre-me ao local do nascer de meus filhos, os Blazes.",
+  "roguecraft.obelisk.custos.defeat": "Um dia era-me Chama, o Guardião das Ondas Infernais...",
+  "roguecraft.obelisk.aqua.inactive": "Erro 404: Dados Inexistentes.",
+  "roguecraft.obelisk.tyrannus.main": "Sou quem provém ao Fim a esperança e o medo. Derrote o Guardião dos Infernos para me encontrar.",
+  "roguecraft.obelisk.tyrannus.defeat": "Ender eu já fui, o Tirano Dragão do Fim...",
+  "roguecraft.obelisk.anima.inactive": "Nascido por um dever, meu poder cresce incessantemente. Enfrete-me assim que atingir o meu auge, caso desejas encarar meu mestre.",
+  "roguecraft.obelisk.fatum.inactive": "Ainda não chegou a hora, eterna alma. Devo pedir por vossa paciência.", // Alma Eterna não cabe nesse contexto aqui
+  "roguecraft.obelisk.divus.inactive": "* Você sente calafrios só por estar perto deste obelisco.",
 
   "roguecraft.loadout.sword": "Espada",
   "roguecraft.loadout.pickaxe": "Picareta",
@@ -276,7 +276,7 @@
   "roguecraft.loadout.axe": "Machado",
   "roguecraft.loadout.hoe": "Enxada",
   "roguecraft.loadout.food": "Comida",
-  "roguecraft.loadout.golden_apple": "Maça Douradas",
+  "roguecraft.loadout.golden_apple": "Maçã Dourada",
   "roguecraft.loadout.pearl": "Pérolas",
   "roguecraft.loadout.lore": "Usado para mudar seu Loadout",
 
@@ -356,16 +356,16 @@
 
   "biome.roguecraft.infinite_garden": "Jardim Infinito",
 
-  "roguecraft.speedrun.timer": "Timer pra Speedruns",
+  "roguecraft.speedrun.timer": "Tempo para Speedruns",
   "roguecraft.speedrun.single_run": "Única Tentativa",
   "roguecraft.speedrun.new_world": "Novo Mundo",
   "roguecraft.speedrun.wildfire_message": "[%s] Você derrotou o Chama em %s",
   "roguecraft.speedrun.ender_dragon_message": "[%s] Você derrotou Ender em %s",
   
-  "roguecraft.chat_messages.enable_single_run_timer": "Você ativou o timer de 'Tentativas Únicas'",
-  "roguecraft.chat_messages.disable_single_run_timer": "Você desativou o timer de 'Tentativas Únicas'",
-  "roguecraft.chat_messages.enable_new_world_timer": "Você ativou o timer de 'Novo Mundo'",
-  "roguecraft.chat_messages.disable_new_world_timer": "Você desativou o timer de 'Novo Mundo'",
+  "roguecraft.chat_messages.enable_single_run_timer": "Você ativou o temporizador de 'Tentativas Únicas'",
+  "roguecraft.chat_messages.disable_single_run_timer": "Você desativou o temporizador de 'Tentativas Únicas'",
+  "roguecraft.chat_messages.enable_new_world_timer": "Você ativou o temporizador de 'Novo Mundo'",
+  "roguecraft.chat_messages.disable_new_world_timer": "Você desativou o temporizador de 'Novo Mundo'",
   
   "roguecraft.chat_messages.golden_scythe_no_requirements": "Requisitos ainda não cumpridos",
   "roguecraft.chat_messages.golden_scythe_equip": "Você incorpora o magnífico poder da Foice Dourada",
