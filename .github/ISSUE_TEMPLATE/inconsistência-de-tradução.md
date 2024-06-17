@@ -2,8 +2,8 @@
 name: Inconsistência de Tradução
 about: Encontrou alguma inconsistência? Nos ajude reportando-a!
 title: ''
-labels: ''
-assignees: AndreyFernandes-NP
+labels: inconsistência
+assignees: ''
 
 ---
 
