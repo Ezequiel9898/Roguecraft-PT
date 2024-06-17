@@ -23,21 +23,21 @@
   "roguecraft.item.unready": "Sair",
   "roguecraft.item.join_run": "Entrar",
   "roguecraft.item.remove_upgrade": "Desaprimorador",
-  "roguecraft.item.scythe": "Foice %s",     // É capaz de rolar um 'Foice Ouro', necessário testes para ver o que podemos mudar
+  "roguecraft.item.scythe": "Foice %s",
   
-  "roguecraft.prefix.wooden": "Madeira",    // Essa sequência precisa de teste pra ver se os prefixos estão escritos certo
-  "roguecraft.prefix.stone": "Pedra",
-  "roguecraft.prefix.golden": "Ouro",
-  "roguecraft.prefix.iron": "Ferro",
-  "roguecraft.prefix.diamond": "Diamente",
-  "roguecraft.prefix.netherite": "Netherita",
+  "roguecraft.prefix.wooden": "de Madeira",    // Essa sequência precisa de teste pra ver se os 'prefixos' (sufixos agora) estão escritos certo, acredito que sejam da foice, então...
+  "roguecraft.prefix.stone": "de Pedra",       // na teoria é pra ficar por exemplo "Foice de Madeira", "Foice de Pedra", "Foice Dourada", "Foice de Ferro" e assim em diante.
+  "roguecraft.prefix.golden": "Dourada",
+  "roguecraft.prefix.iron": "de Ferro",
+  "roguecraft.prefix.diamond": "Ornada",       // Achei "Ornada" bonitinho então vou deixar ao invés "de Diamante" :v
+  "roguecraft.prefix.netherite": "de Netherita",
   
   "roguecraft.bossbar.difficulty_level": "Nível de Dificuldade: %s",
   "roguecraft.bossbar.liquid_walker": "Jesus",
   "roguecraft.bossbar.dirt_walker": "Passos de Terra",
   "roguecraft.bossbar.ender_dragon": "Ender",
   "roguecraft.bossbar.wildfire": "Chama",           // Refêrencia a Ben 10 (Já que na gringa o Chama é Wildfire)
-  "roguecraft.bossbar.wildfire_variant": "Petro",   // Deu vontade de colocar "Fogo-Fato" aqui kkkk
+  "roguecraft.bossbar.wildfire_variant": "Fogo-Fato",   // Eu coloquei... eu coloquei "Fogo-Fato" (já que é 1% de chance de aparecer como easter egg)
   "roguecraft.bossbar.wave": "Onda %s",
   "roguecraft.bossbar.run": "Tentativa %s",
   "roguecraft.bossbar.wait": "Espere o Terreno carregar",
@@ -267,8 +267,8 @@
   "roguecraft.obelisk.tyrannus.main": "Sou quem provém ao Fim a esperança e o medo. Derrote o Guardião dos Infernos para me encontrar.",
   "roguecraft.obelisk.tyrannus.defeat": "Ender eu já fui, o Tirano Dragão do Fim...",
   "roguecraft.obelisk.anima.inactive": "Nascido por um dever, meu poder cresce incessantemente. Enfrete-me assim que atingir o meu auge, caso desejas encarar meu mestre.",
-  "roguecraft.obelisk.fatum.inactive": "Ainda não chegou a hora, eterna alma. Devo pedir por vossa paciência.", // Alma Eterna não cabe nesse contexto aqui
-  "roguecraft.obelisk.divus.inactive": "* Você sente calafrios só por estar perto deste obelisco.",
+  "roguecraft.obelisk.fatum.inactive": "Ainda não chegou a hora, Eterna Alma. Devo pedir por vossa paciência.", // Alma eterna não cabe nesse contexto aqui
+  "roguecraft.obelisk.divus.inactive": "* Você sente calafrios só de estar perto deste obelisco.",
 
   "roguecraft.loadout.sword": "Espada",
   "roguecraft.loadout.pickaxe": "Picareta",
@@ -290,13 +290,13 @@
   "roguecraft.tutorial.title.abilities_and_classes": "Habilidades e Classes",
   "roguecraft.tutorial.title.cosmic_dome": "O Domo Côsmico",
                                                                                   // Fazer a tradução dos conteúdos dos livros
-  "roguecraft.tutorial.introduction.page_0": "----§oIntroduction§r----\nWelcome to §lRoguecraft§r, a data pack that aims to turn Minecraft into a roguelite game. If you already know what a roguelite is, feel free to skip to page 4. A roguelite is a variation of the roguelike genre. The gist of it is that the",
-  "roguecraft.tutorial.introduction.page_1": "world is randomly generated, and the game loop is seperated into multiple runs. In roguelikes, you lose all of your progress upon dying, but in roguelites, you get to keep some of your progress, which in this case means that you can unlock permanent upgrades to help you on your",
-  "roguecraft.tutorial.introduction.page_2": "journey to kill the ender dragon and beat the data pack. These upgrades will eventually be enough for you to beat the entire game from start to finish in a single run.",
-  "roguecraft.tutorial.introduction.page_3": "------§oTutorial§r------§r\nYou are currently located in the tutorial, a part of the general hub of this data pack, the cosmic dome. The other lecterns will tell you about the new additions and changes that the data pack makes. The information provided will be very useful, but it's mostly not required for",
-  "roguecraft.tutorial.introduction.page_4": "playing. The only exception are the crafting recipes located in the item frame above the first lectern on the left. You can return to the tutorial at any point, so if you'd rather go in blind, just take a screenshot of the recipes on the left and step through the",
-  "roguecraft.tutorial.introduction.page_5": "portal at the end of the room. If you'd rather follow the tutorial, take a closer look at the lecterns in this room.\nWhatever you end up doing, I wish you the best of luck with Roguecraft. Have fun!",
-  "roguecraft.tutorial.introduction.page_6": "",
+  "roguecraft.tutorial.introduction.page_0": "----§oIntrodução§r----\nBem-vindo, ao §lRoguecraft§r, uma datapack com o objetivo de transformar o Minecraft num Roguelite. Caso já saiba o que é um §oRoguelite§r, pule pra 4° página. Um Roguelite é uma variação dos Roguelikes. Você já sabe como é, né...",
+  "roguecraft.tutorial.introduction.page_1": "o mundo é gerado aleatoriamente, e a rejogabilidade se trata de várias 'runs' (ou tentativas). Nos Roguelikes, você perde todo o seu progresso ao morrer, mas nos Roguelites, parte dele é salvo, no nosso caso você pode comprar upgrades permanentes",
+  "roguecraft.tutorial.introduction.page_2": "que te ajudarão a progredir e derrotar Ender, zerando a data pack. Uma hora esses upgrades serão mais que o suficiente pra você vencer o chefão final numa única tentativa.",
+  "roguecraft.tutorial.introduction.page_3": "------§oTutorial§r------§r\nPrazer irmão, esse é o tutorial, uma parte do saguão dessa datapack, que fica dentro do domo côsmico. Os outros estandes (ou Atrils) irão te dizer mais sobre o que essa datapack muda. São informações bem úteis, mas não obrigatórias.",
+  "roguecraft.tutorial.introduction.page_4": "A unica exceção sendo as receitas de crafting que tu pode encontrar à esquerda. Você pode voltar pra cá a qualquer hora, então se quiser cair de boca, tire uma printzinha dos craftings e vai fundo amigo.",
+  "roguecraft.tutorial.introduction.page_5": "Se quiser seguir completamente o tutorial, dê uma olhada nos outros livros dessa sala.\nSeja lá o que você fizer, te desejo sorte em sua jornada dentro do Roguecraft. Então, divirta-se meu nobre!",
+  "roguecraft.tutorial.introduction.page_6": "------§oCréditos§r------§r\nUm salve pro Felps! Essa datapack foi traduzida orignalmente por mim, §lDIO! HA, VOCÊ PENSOU MESMO QUE ERAM DEVIDOS CRÉDITOS-§r\nCaô, sou R4in, traduzi originalmente por pura paixão pela datapack, espero que curta o que eu fiz! ♥",
   
   "roguecraft.tutorial.skillpoints.page_0": "-----§oSkillpoints§r-----\nSkillpoints are the most important resource in this data pack. They can be used to buy upgrades, abilities and classes in the hub. They can be obtained in two ways. The first is to simply craft them using the recipes behind this lectern. The first recipe will grant you",
   "roguecraft.tutorial.skillpoints.page_1": "one skillpoint, the second will grant you two skillpoints and the last one four skillpoints. You can find more info on the item in the middle on page 4.\nThe second method of obtaining skillpoints is to simply obtain advancements, which will grant you one skillpoint each.",
