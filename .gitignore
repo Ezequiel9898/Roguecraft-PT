@@ -1,1 +1,7 @@
-.github
+# Ignore básico que não é necessário mostrar
+
+*.github
+
+# Só pra garantir
+
+ISSUE_TEMPLATE

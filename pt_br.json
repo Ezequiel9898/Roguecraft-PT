@@ -289,7 +289,7 @@
   "roguecraft.tutorial.title.shops": "Loja",
   "roguecraft.tutorial.title.abilities_and_classes": "Habilidades e Classes",
   "roguecraft.tutorial.title.cosmic_dome": "O Domo Côsmico",
-
+                                                                                  // Fazer a tradução dos conteúdos dos livros
   "roguecraft.tutorial.introduction.page_0": "----§oIntroduction§r----\nWelcome to §lRoguecraft§r, a data pack that aims to turn Minecraft into a roguelite game. If you already know what a roguelite is, feel free to skip to page 4. A roguelite is a variation of the roguelike genre. The gist of it is that the",
   "roguecraft.tutorial.introduction.page_1": "world is randomly generated, and the game loop is seperated into multiple runs. In roguelikes, you lose all of your progress upon dying, but in roguelites, you get to keep some of your progress, which in this case means that you can unlock permanent upgrades to help you on your",
   "roguecraft.tutorial.introduction.page_2": "journey to kill the ender dragon and beat the data pack. These upgrades will eventually be enough for you to beat the entire game from start to finish in a single run.",
