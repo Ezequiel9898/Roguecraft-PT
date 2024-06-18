@@ -1,5 +1,6 @@
 // Tradução Original por: R4in,
 // Com a ajuda de:
+
 // Como que ainda preciso de mais testes e a tradução foi entregue logo, essa versão terá os comentários mantidos
 
 {
@@ -37,7 +38,7 @@
   "roguecraft.bossbar.liquid_walker": "Jesus",
   "roguecraft.bossbar.dirt_walker": "Passos de Terra",
   "roguecraft.bossbar.ender_dragon": "Ender",
-  "roguecraft.bossbar.wildfire": "Chama",               // Refêrencia a Ben 10 (Já que na gringa o Chama é Wildfire)
+  "roguecraft.bossbar.wildfire": "Chama",               // Referência a Ben 10 (Já que na gringa o Chama é Wildfire)
   "roguecraft.bossbar.wildfire_variant": "Fogo-Fato",   // Eu coloquei... eu coloquei "Fogo-Fato" (já que é 1% de chance de aparecer como easter egg)
   "roguecraft.bossbar.wave": "Onda %s",
   "roguecraft.bossbar.run": "Tentativa %s",
@@ -93,8 +94,8 @@
   "roguecraft.chat_messages.upgrade_sell": "Você desaprimorou %s",
   "roguecraft.chat_messages.error_max": "%s já está no nível máximo",
   "roguecraft.chat_messages.error_min": "Não é possível desaprimorar mais que isso",
-  "roguecraft.chat_messages.error_max_incomplete": "Aprimoramentos de %s esgotados; derrote mais bosses para quebrar seu limite",
-  "roguecraft.chat_messages.error_too_expensive": "Você não possui pontos o suficiente para esse(a) %s",
+  "roguecraft.chat_messages.error_max_incomplete": "Aprimoramentos esgotados; derrote mais bosses para quebrar seu limite",
+  "roguecraft.chat_messages.error_too_expensive": "Você não possui pontos para esse(a) %s",
   "roguecraft.chat_messages.error_selling": "Agache enquanto segura o %s para desaprimorar o(a) %s",
   "roguecraft.chat_messages.ability_error_item": "Você não liberou %s ainda; compre-o clicando com as mãos vazias, e então equipe",
   "roguecraft.chat_messages.ability_equip": "Você consagrou %s como sua %s %s",
@@ -111,7 +112,7 @@
   "roguecraft.chat_messages.class_buy": "Você liberou o(a) %s como %s",
   "roguecraft.chat_messages.class_sell": "Você removeu o(a) %s como %s",
   
-  "roguecraft.chat_messages.unlock_upgrades": "Novos upgrades liberados ao ter derrotado um boss!",
+  "roguecraft.chat_messages.unlock_upgrades": "Novos upgrades liberados ao ter derrotado um novo boss!",
   
   "roguecraft.chat_messages.chester": "O espírito sorriu para você...",
   
@@ -177,7 +178,7 @@
   "roguecraft.ability.name.ability_spikes": "Aparar",
   "roguecraft.ability.name.ability_levitate": "Levitar",
   "roguecraft.ability.name.ability_dirt_walker": "Passos de Terra",
-  "roguecraft.ability.description.ability_explosion": "Causa uma explosão nas proximidades, destruindo terreno e matando mobs",
+  "roguecraft.ability.description.ability_explosion": "Cause uma explosão nas proximidades, destruindo terreno e dando dano",
   "roguecraft.ability.description.ability_mining": "Minera uma área em volta de você. CUIDADO: Pode quebrar blocos indestrutíveis!",
   "roguecraft.ability.description.ability_arrow_wave": "Crie uma onda de flechas ao seu redor",
   "roguecraft.ability.description.ability_liquid_walker": "Crie um caminho, permitindo andar sobre água e lava",
@@ -191,10 +192,10 @@
   "roguecraft.class.name.tank": "Tanque",
   "roguecraft.class.name.mage": "Mago",
   "roguecraft.class.name.healer": "Médico",
-  "roguecraft.class.name.glass_cannon": "Atirador",
+  "roguecraft.class.name.glass_cannon": "Atirador",   // Referência a role do Lol focada em dano (Adc/Atirador)
   "roguecraft.class.name.reaper": "Morte",
   "roguecraft.class.description.tank": "Você recebe mais vida; Habilidade: Ganhe Resistência V por 10 segundos",
-  "roguecraft.class.description.mage": "Aumenta sua Regeneração de Mana, além de lhe dar mais um slot de Habilidade",
+  "roguecraft.class.description.mage": "Maior Regeneração de Mana e um slot extra de habilidade",
   "roguecraft.class.description.healer": "Regenera a vida de Players próximos; Habilidade: Reviva um Player com um custo de 4 corações",
   "roguecraft.class.description.glass_cannon": "Converte armadura em dano; Habilidade: O ataque é a melhor defesa!",
   "roguecraft.class.description.reaper": "Use almas ao invés de mana; Habilidade: Libere espíritos malignos",
@@ -203,7 +204,7 @@
   "roguecraft.class_ability.healer_error_no_health": "Você precisa de 4 corações para usar essa habilidade",
   "roguecraft.class_ability.healer_error_all_alive": "Não há ninguém para reviver",
   "roguecraft.class_ability.glass_cannon": "Foco em Combate",
-  "roguecraft.class_ability.reaper": "Espéctro da Morte",
+  "roguecraft.class_ability.reaper": "Espectro da Morte",
   "roguecraft.class_cost.reaper": "Todas suas Almas",
   "roguecraft.class_ability.glass_cannon_error": "Você precisa de 3 corações para usar essa habilidade",
   
@@ -219,7 +220,7 @@
   "roguecraft.advancement.name.max_health": "Anabolizantes",
   "roguecraft.advancement.name.prevent_death": "Nem doeu!",
   "roguecraft.advancement.name.root": "Roguecraft",
-  "roguecraft.advancement.name.root_infinite_garden": "Roguecraft - Jardim Infinito",
+  "roguecraft.advancement.name.root_infinite_garden": "Roguecraft - O Jardim Infinito",
   "roguecraft.advancement.name.run_complete": "Matador de Dragões",
   "roguecraft.advancement.name.skillpoint_1": "Potencial Oculto",
   "roguecraft.advancement.name.skillpoint_100": "Potencial Ascendente",
@@ -228,11 +229,11 @@
   "roguecraft.advancement.name.chester": "Um Velho Amigo",
   "roguecraft.advancement.name.wildfire": "Fervendo",
   "roguecraft.advancement.name.keep_inventory": "/keepInventory True",
-  "roguecraft.advancement.name.world_record": "A Veloecidad",
+  "roguecraft.advancement.name.world_record": "A Velocidade",
   "roguecraft.advancement.name.skillpoint_500": "Potencial DIVINO",
   "roguecraft.advancement.name.destroy_hub": "Pelo menos tentou!",
   "roguecraft.advancement.name.infinite_garden_void": "Não tão Imortal",
-  "roguecraft.advancement.name.first_ability": "Avada Kedavra",
+  "roguecraft.advancement.name.first_ability": "Avara Keraba",            // Sim, eu meti essa diretamente de hogwarts rs
   "roguecraft.advancement.description.all_dummy": "Aprimore o Upgrade Teste até o máximo na sala de Tutorial",
   "roguecraft.advancement.description.avatar": "Tenha Jesus, Passos de Terra e Levitar tudo ao mesmo tempo",
   "roguecraft.advancement.description.completion": "Libere cada upgrade, habilidade e classe",
@@ -240,17 +241,17 @@
   "roguecraft.advancement.description.end_portal_destroyed": "Destrua o Portal do Fim com a Mineração em Área",
   "roguecraft.advancement.description.full_defense": "Aprimore até o máximo todos os upgrades sobre Defesa",
   "roguecraft.advancement.description.instant_delivery": "Mate um ghast usando Aparar",
-  "roguecraft.advancement.description.instant_regret": "Morra em até 3 segundos após usar o Foco em Combate do Atirador", // Referência a role do Lol focada em dano (Adc/Atirador)
+  "roguecraft.advancement.description.instant_regret": "Morra em até 3 segundos após usar o Foco em Combate do Atirador",
   "roguecraft.advancement.description.low_health_parry": "Sobreviva com meio coração apos Aparar um ataque",
   "roguecraft.advancement.description.max_health": "Consiga o máximo de Vida possível, incluindo efeitos de absorção",
   "roguecraft.advancement.description.prevent_death": "Use a Defesa Impenetrável do Tanque com meio coração",
-  "roguecraft.advancement.description.root": "Criado por MonoCode",
-  "roguecraft.advancement.description.root_infinite_garden": "O Update 1.2",
+  "roguecraft.advancement.description.root": "Criado por MonoCode, trad por: R4in",
+  "roguecraft.advancement.description.root_infinite_garden": "O Incrível Update 1.2",
   "roguecraft.advancement.description.run_complete": "Derrote Ender, o Tirano Dragão do Fim!",
-  "roguecraft.advancement.description.skillpoint_1": "Crafte o seu primeiro Ponto de Skill",
+  "roguecraft.advancement.description.skillpoint_1": "Crie o seu primeiro Ponto de Skill",
   "roguecraft.advancement.description.skillpoint_100": "Consiga 100 pontos numa tentativa só",
   "roguecraft.advancement.description.speedrun": "Derrote Ender com um Nível de Dificuldade inferior a 5",
-  "roguecraft.advancement.description.true_completion": "Consiga todas as conquistas de Roguecraft",
+  "roguecraft.advancement.description.true_completion": "Consiga todas as conquistas de Roguecraft!! Agora, que tal uma pausinha?",
   "roguecraft.advancement.description.chester": "Encontre o espírito de um cachorro no Jardim Infinito",
   "roguecraft.advancement.description.wildfire": "Mate Chama, o Blaze Guardião das Fortalezas do Nether",
   "roguecraft.advancement.description.keep_inventory": "Recupere seu inventário no Jardim Infinito",
@@ -267,8 +268,8 @@
   "roguecraft.obelisk.aqua.inactive": "Erro 404: Dados Inexistentes.",
   "roguecraft.obelisk.tyrannus.main": "Sou quem provém ao Fim o terror e o medo. Derrote o Guardião dos Infernos para me encontrar.",
   "roguecraft.obelisk.tyrannus.defeat": "Ender eu já fui, o Tirano Dragão do Fim...",
-  "roguecraft.obelisk.anima.inactive": "Nascido por um dever, meu poder cresce incessantemente. Enfrete-me assim que atingir o meu auge, caso desejas encarar meu mestre.",
-  "roguecraft.obelisk.fatum.inactive": "Ainda não chegou a hora, Eterna Alma. Devo pedir por vossa paciência.", // Alma eterna não cabe nesse contexto aqui
+  "roguecraft.obelisk.anima.inactive": "Nascido por um dever, meu poder cresce incessantemente. Enfrente-me assim que alcançar o meu auge, caso desejas encarar meu mestre.",
+  "roguecraft.obelisk.fatum.inactive": "Ainda não chegou a hora, Eterna Alma. Devo pedir por vossa paciência.", // Alma eterna não cabe nesse contexto aqui, é 'Eterna Alma' mesmo
   "roguecraft.obelisk.divus.inactive": "* Você sente calafrios só de estar perto deste obelisco.",
 
   "roguecraft.loadout.sword": "Espada",
@@ -292,29 +293,29 @@
   "roguecraft.tutorial.title.cosmic_dome": "O Domo Cósmico",
                                                                                   // Fazer a tradução dos conteúdos dos livros
   "roguecraft.tutorial.introduction.page_0": "----§oIntrodução§r----\nBem-vindo, ao §lRoguecraft§r, uma datapack com o objetivo de transformar o Minecraft num Roguelite. Caso já saiba o que é um §oRoguelite§r, pule pra 4° página. Um Roguelite é uma variação dos Roguelikes. Você já sabe como é, né...",
-  "roguecraft.tutorial.introduction.page_1": "o mundo é gerado aleatoriamente, e a rejogabilidade se trata de várias 'runs' (ou tentativas). Nos Roguelikes, você perde todo o seu progresso ao morrer, mas nos Roguelites, parte dele é salvo, no nosso caso você pode comprar upgrades permanentes",
+  "roguecraft.tutorial.introduction.page_1": "o mundo é gerado aleatoriamente, e a re-jogabilidade se trata de várias 'runs' (ou tentativas). Nos Roguelikes, você perde todo o seu progresso ao morrer, mas nos Roguelites, parte dele é salvo, no nosso caso você pode comprar upgrades permanentes",
   "roguecraft.tutorial.introduction.page_2": "que te ajudarão a progredir e derrotar Ender, zerando a data pack. Uma hora esses upgrades serão mais que o suficiente pra você vencer o chefão final numa única tentativa.",
-  "roguecraft.tutorial.introduction.page_3": "------§oTutorial§r------§r\nPrazer irmão, esse é o tutorial, uma parte do saguão dessa datapack, que fica dentro do domo cósmico. Os outros estandes (ou Atrils) irão te dizer mais sobre o que essa datapack muda. São informações bem úteis, mas não obrigatórias.",
-  "roguecraft.tutorial.introduction.page_4": "A unica exceção sendo as receitas de crafting que tu pode encontrar à esquerda. Você pode voltar pra cá a qualquer hora, então se quiser cair de boca, tire uma printzinha dos craftings e vai fundo amigo.",
+  "roguecraft.tutorial.introduction.page_3": "------§oTutorial§r------§r\nPrazer irmão, esse é o tutorial, uma parte do saguão dessa datapack, que fica dentro do domo cósmico. Os outros estandes (ou Atris) irão te dizer mais sobre o que essa datapack muda. São informações bem úteis, mas não obrigatórias.",
+  "roguecraft.tutorial.introduction.page_4": "A única exceção sendo as receitas de crafting que tu pode encontrar à esquerda. Você pode voltar pra cá a qualquer hora, então se quiser cair de boca, tire uma printzinha delas e vai fundo amigo.",
   "roguecraft.tutorial.introduction.page_5": "Se quiser seguir completamente o tutorial, dê uma olhada nos outros livros dessa sala.\nSeja lá o que você fizer, te desejo sorte em sua jornada dentro do Roguecraft. Então, divirta-se meu nobre!",
-  "roguecraft.tutorial.introduction.page_6": "------§oCréditos§r------§r\nUm salve pro Felps! Essa datapack foi traduzida orignalmente por mim, §lDIO! HA, VOCÊ PENSOU MESMO QUE ERAM DEVIDOS CRÉDITOS-§r\nCaô, sou R4in, traduzi originalmente por pura paixão pela datapack, espero que curta o que eu fiz! ♥",
+  "roguecraft.tutorial.introduction.page_6": "------§oCréditos§r------§r\nUm salve pro Felps! Essa datapack foi traduzida originalmente por mim, §lDIO! HA, VOCÊ PENSOU MESMO QUE ERAM DEVIDOS CRÉDITOS-§r\nCaô, sou R4in, traduzi originalmente a datapack por pura paixão, espero que curta o que eu fiz! ♥",
   
   "roguecraft.tutorial.skillpoints.page_0": "-----§oPontos de Skill§r-----\nOs Pontos de Skill são os recursos mais importantes da datapack. Com eles dá pra comprar upgrades, habilidades e classes no saguão. É possível obtê-los de duas formas. A primeira é através dos craftings atrás desse livro.",
   "roguecraft.tutorial.skillpoints.page_1": "A primeira receita dará apenas um Ponto de Skill, enquanto que a segunda dois e a última quatro. Mais informações sobre o item do meio na página 4.\nO segundo método é através de conquistas, cada uma lhe dará apenas um ponto.",
   "roguecraft.tutorial.skillpoints.page_2": "Não esqueça que todo ponto guardado sumirá assim que uma nova tentativa começar, então gaste o quanto puder antes de voltar pra ativa, e se sobrar aquele único pontinho, use-o na vossa defesa de cada dia! (Aquela que custa 1 só)",
-  "roguecraft.tutorial.skillpoints.page_3": "----§oGemas de Skill§r----\nA Gema de Skill é o ingrediente principal na receita dos Pontos (é o item bonitinho que tá no centro). Só é possível obtê-las assim que ganhar novos níveis de experiência, o que as torna bem valiosas.",
-  "roguecraft.tutorial.skillpoints.page_4": "Isso as torna bem difíceis de se obter em grandes quantidades. Se o seu nível cair, você §lNÃO§r receberá outra Gema até que volte ao seu nível original.",
-  "roguecraft.tutorial.skillpoints.page_5": "Como exemplo, digamos:\nVocê estava no nível 21 e acabou morrendo, seu amigo te ressuscitou (caso esteja em co-op) ou de alguma forma, tu perdeu muito XP, você só receberia outra gema apenas se alcançar o nível 22, tendo que subir tudo de novo até o 21.",
+  "roguecraft.tutorial.skillpoints.page_3": "----§oGemas de Skill§r----\nA Gema de Skill é o ingrediente principal na receita dos Pontos (é o item bonitinho que tá no centro). Só é possível obtê-las assim que ganhar novos níveis de experiência, o que as torna bem valiosas",
+  "roguecraft.tutorial.skillpoints.page_4": "e também bem difíceis de se obter em grandes quantidades. Se o seu nível cair, você §lNÃO§r receberá outra Gema até que volte ao seu nível original, segue um exemplo na próxima página.",
+  "roguecraft.tutorial.skillpoints.page_5": "Digamos o seguinte:\nVocê estava no nível 21 e acabou morrendo, seu amigo te ressuscitou (caso esteja em co-op) ou de alguma forma, tu perdeu muito XP, você só receberia outra gema apenas se alcançar o nível 22, tendo que subir tudo de novo até o 21.",
   
-  "roguecraft.tutorial.shops.page_0": "§r-------§oLojinhas§r-------\nAs Lojas são uma parte vital da progressão da datapack. Elas estão localizadas aqui, no Domo Cósmico, e é aonde você compra os upgrades, habilidades e classes.\nÀ sua direita, tem um manequim (dummy) que vende um upgrade inútil.",
-  "roguecraft.tutorial.shops.page_1": "Ele custa 0 conto, bata nele pra fazer uma compra teste e ter uma noção de como funcionam as coisas.\nExistem 4 tipos de lojas diferentes. A primeira se chama \"Lojinha Básica\". Elas funcionam que nem essa da tua direita, onde o preço continua o mesmo após a compra.",
-  "roguecraft.tutorial.shops.page_2": "A segunda são as \"Lojinhas Exponenciais\". O preço não aparece em cima delas, mas sim em cima da tua hotbar. O motivo disso é que a cada nível comprado, o preço vai aumentando gradualmente.",
+  "roguecraft.tutorial.shops.page_0": "§r-------§oLojinhas§r-------\nAs Lojas são uma parte vital da progressão da datapack. Elas estão localizadas aqui, no Domo Cósmico, e é onde você compra os upgrades, habilidades e classes.\nÀ sua direita, tem um manequim (dummy) que vende um upgrade inútil.",
+  "roguecraft.tutorial.shops.page_1": "Ele custa 0 conto, bata nele pra fazer uma compra e ter uma noção de como funcionam as coisas.\nExistem 4 tipos de lojas diferentes. A primeira é a \"Lojinha Simples\". Ela funciona que nem essa da tua direita, onde o preço não sobe e permanece sempre o mesmo.",
+  "roguecraft.tutorial.shops.page_2": "A segunda são as \"Lojinhas Exponenciais\". O preço não aparece em cima delas, mas sim em cima da tua hotbar. O motivo disso é que a cada nível comprado, o preço aumentará gradualmente.",
   "roguecraft.tutorial.shops.page_3": "O terceiro tipo são as \"Lojinhas de Classe\". Elas vendem classes, só isso. A diferença delas das outras lojas é que a compra é única, e assim que liberar alguma classe, use seu botão direito pra equipá-las ou desequipá-las. O próximo estande explicará isso melhor.",
   "roguecraft.tutorial.shops.page_4": "Já a última é as \"Lojinhas de Habilidades\". Elas vendem habilidades ativas e seu custo aumenta que nem as lojas exponenciais. O nível máximo delas sempre será 3. Para consagrar um item de habilidade na habilidade alvo que quiser",
   "roguecraft.tutorial.shops.page_5": "apenas clique como se fosse comprar segurando um item de habilidade. Assim como as classes, será melhor explicado no próximo estande.",
-  "roguecraft.tutorial.shops.page_6": "-----§oRa§7nq§6ues§r-----\nYou may have noticed a lock above the dummy shop. Locks display the shop tier. A shop tier indicates the highest level of that upgrade, which is increased by increasing the tier of the shop. This is done by defeating bosses. With a golden lock, the shop is fully locked,",
-  "roguecraft.tutorial.shops.page_7": "preventing you from buying any upgrades. Silver locks allow you to buy some upgrades, bronze locks allow you to buy most of them, and shops without locks above them are fully unlocked.",
-  "roguecraft.tutorial.shops.page_8": "-§oRemoving Upgrades§r-\nIf you want to decrease your level of an upgrade, simply hold the \"Upgrade Remover\" item and right click the appropiate shop §lwhile shifting§r.\n\nIMPORTANT: This will not return any skillpoints, so be careful!§",
+  "roguecraft.tutorial.shops.page_6": "-----§oRa§7nq§6ues§r-----\nTu deve ter notado que tem uma trava em cima da loja à tua direita. Elas se chamam \"Travas de Ranque\". Uma trava indica qual é o nível máximo do upgrade escolhido, para aumentar seu ranque e liberar novos níveis, é necessário matar novos bosses (que nem no Terraria).",
+  "roguecraft.tutorial.shops.page_7": "As travas §6douradas§r impedem você de realizar qualquer compra nessa loja. Travas de §7prata§r permitem apenas a compra de poucos níveis, as de §#AA5500bronze§r possuem a maioria deles liberados, e aquelas sem nada em cima podem ser maximizadas.",
+  "roguecraft.tutorial.shops.page_8": "-§oDesaprimorador§r-\nSe você quiser diminuir o nível de qualquer upgrade, segure o \"Desaprimorador\" na sua hotbar e use o botão direito enquanto tiver dando §oshift§r.\n\n§lAVISO:§r Sem galantia, complou puque quis!",
   "roguecraft.tutorial.shops.page_9": "",
   
   "roguecraft.tutorial.abilities_and_classes.page_0": "------§oAbilities§r------\nAbilities are powerful, active spells. They can be bought in the hub, after which you have to hold one of your ability items and click the shop to bind that ability item to the ability shown in the shop. You have 3 ability items by default, but if you choose the mage",
