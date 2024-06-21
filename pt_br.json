@@ -48,14 +48,14 @@
   "roguecraft.bossbar.hub": "Saguão",
 
   "roguecraft.compass.fortress": "Fortaleza do Nether",
-  "roguecraft.compass.stronghold": "Fortaleza",
+  "roguecraft.compass.stronghold": "Fortalizador",
   "roguecraft.compass.nether": "Fortalizador do Nether",
-  "roguecraft.compass.entry": "Nether",     // Como não testei, não sei quando essa tradução aparece, então vai ficar assim (como no original)
+  "roguecraft.compass.entry": "Nether",                   // Como não testei, não sei quando essa tradução aparece, então vai ficar assim (como no original)
 
   "roguecraft.title.victory": "Vitória!",
   "roguecraft.title.defeat": "Derrota",
   "roguecraft.title.run_end_dragon": "Dragão Derrotado",
-  "roguecraft.title.enter_end": "Ender, O Tirano",   // Como as coisas tem uma "lorezinha" agora, achei bacana deixar Tirano ao invés de Dragão
+  "roguecraft.title.enter_end": "Ender, O Tirano",        // Como as coisas tem uma "lorezinha" agora, achei bacana deixar Tirano ao invés de Dragão
   "roguecraft.title.infinite_garden": "Jardim Infinito",
   "roguecraft.title.cosmic_dome": "Domo Cósmico",
 
@@ -95,11 +95,11 @@
   "roguecraft.chat_messages.error_max": "%s já está no nível máximo",
   "roguecraft.chat_messages.error_min": "Não é possível desaprimorar mais que isso",
   "roguecraft.chat_messages.error_max_incomplete": "Aprimoramentos esgotados; derrote mais bosses para quebrar seu limite",
-  "roguecraft.chat_messages.error_too_expensive": "Você não possui pontos para esse(a) %s",
+  "roguecraft.chat_messages.error_too_expensive": "Você não possui pontos para esse(a) %s",           // Antigamente isso funcionava dizendo nome genérico como "upgrade", "classe", ficar atento pra ver se vai mudar
   "roguecraft.chat_messages.error_selling": "Agache enquanto segura o %s para desaprimorar o(a) %s",
   "roguecraft.chat_messages.ability_error_item": "Você não liberou %s ainda; compre-o clicando com as mãos vazias, e então equipe",
   "roguecraft.chat_messages.ability_equip": "Você consagrou %s como sua %s %s",
-  "roguecraft.chat_messages.ability_unbind": "Sua %s habilidade se dissipa e volta aos primórdios..", // O objetivo é que tenha "..." (3 pontos), na teoria é pra ser assim, mas precisa de teste
+  "roguecraft.chat_messages.ability_unbind": "Sua %s habilidade se dissipa e volta aos primórdios..",   // O objetivo é que tenha "..." (3 pontos) finais, na teoria é pra ser assim, mas precisa de teste
   "roguecraft.chat_messages.ability": "habilidade",
   "roguecraft.chat_messages.ability_equip_a1": "primeira",
   "roguecraft.chat_messages.ability_equip_a2": "segunda",
@@ -291,7 +291,7 @@
   "roguecraft.tutorial.title.shops": "Lojinhas",
   "roguecraft.tutorial.title.abilities_and_classes": "Habilidades e Classes",
   "roguecraft.tutorial.title.cosmic_dome": "O Domo Cósmico",
-                                                                                  // Fazer a tradução dos conteúdos dos livros
+
   "roguecraft.tutorial.introduction.page_0": "----§oIntrodução§r----\n\nBem-vindo, ao §lRogue§r-\n§lcraft§r, uma datapack com o objetivo de transformar o Mine-\ncraft num Roguelite. Caso já saiba o que é um §oRoguelite§r, pule pra 4° página. Um Roguelite é uma variação dos Roguelikes. \n\nCê sabe...",
   "roguecraft.tutorial.introduction.page_1": "o mundo é gerado aleatoriamente, a rejogabilidade se trata de várias 'runs' (ou tentativas) dife-\nrentes, e etc. Nos Roguelikes, você perde todo o seu progresso ao morrer, mas nos Roguelites, parte dele é salvo, no nosso caso, você pode comprar upgrades permanentes",
   "roguecraft.tutorial.introduction.page_2": "que te ajudarão a progredir e derrotar Ender, zerando a data pack. Uma hora, esses upgrades serão mais que o suficiente pra você vencer o chefão final numa única tentativa sem nenhum problema.",
