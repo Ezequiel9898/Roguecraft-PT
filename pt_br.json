@@ -1,15 +1,13 @@
 // Tradução Original por: R4in,
 // Com a ajuda de: zShiro__
 
-// Como que ainda preciso de mais testes e a tradução foi entregue logo, essa versão terá os comentários mantidos
-
 {
   "enchantment.level.0": "0",
   "block.minecraft.structure_void": "Pontos de Skill",
   "block.minecraft.structure_block": "Gema de Skill",
-  "container.enderchest": "\uEff2\uF80A    Loadout",
+  "container.enderchest": "\uEff2\uF80A    Equipamentos",
 
-  "roguecraft.generic.loadout": "Loadout",
+  "roguecraft.generic.loadout": "Baú de Equipamentos",
   "roguecraft.generic.cost": "Custo",
   "roguecraft.generic.current_sp": "Pontos Atuais",
   "roguecraft.generic.ready": "Pronto",
@@ -31,31 +29,31 @@
   "roguecraft.prefix.stone": "de Pedra",
   "roguecraft.prefix.golden": "Dourada",
   "roguecraft.prefix.iron": "de Ferro",
-  "roguecraft.prefix.diamond": "Ornada",          // Achei "Ornada" bonitinho então vou deixar ao invés "de Diamante" :v
+  "roguecraft.prefix.diamond": "Ornada",
   "roguecraft.prefix.netherite": "de Netherita",
   
   "roguecraft.bossbar.difficulty_level": "Nível de Dificuldade: %s",
   "roguecraft.bossbar.liquid_walker": "Jesus",
   "roguecraft.bossbar.dirt_walker": "Passos de Terra",
   "roguecraft.bossbar.ender_dragon": "Ender",
-  "roguecraft.bossbar.wildfire": "Chama",               // Referência a Ben 10 (Já que na gringa o Chama é Wildfire)
-  "roguecraft.bossbar.wildfire_variant": "Fogo-Fato",   // Eu coloquei... eu coloquei "Fogo-Fato" (já que é 1% de chance de aparecer como easter egg)
+  "roguecraft.bossbar.wildfire": "Chama",
+  "roguecraft.bossbar.wildfire_variant": "Fogo-Fato",
   "roguecraft.bossbar.wave": "Onda %s",
-  "roguecraft.bossbar.run": "Tentativa %s",
+  "roguecraft.bossbar.run": "%sº Tentativa",
   "roguecraft.bossbar.wait": "Espere o Terreno carregar",
   "roguecraft.bossbar.welcome_1": "Bem-vindo, ao Roguecraft",
   "roguecraft.bossbar.welcome_2": "Uma Data Pack que transforma o Minecraft em um Roguelite",
   "roguecraft.bossbar.hub": "Saguão",
 
   "roguecraft.compass.fortress": "Fortaleza do Nether",
-  "roguecraft.compass.stronghold": "Fortalizador",
+  "roguecraft.compass.stronghold": "Strongalizador",
   "roguecraft.compass.nether": "Fortalizador do Nether",
-  "roguecraft.compass.entry": "Nether",                   // Como não testei, não sei quando essa tradução aparece, então vai ficar assim (como no original)
+  "roguecraft.compass.entry": "Nether",
 
   "roguecraft.title.victory": "Vitória!",
   "roguecraft.title.defeat": "Derrota",
   "roguecraft.title.run_end_dragon": "Dragão Derrotado",
-  "roguecraft.title.enter_end": "Ender, O Tirano",        // Como as coisas tem uma "lorezinha" agora, achei bacana deixar Tirano ao invés de Dragão
+  "roguecraft.title.enter_end": "Ender, O Tirano",
   "roguecraft.title.infinite_garden": "Jardim Infinito",
   "roguecraft.title.cosmic_dome": "Domo Cósmico",
 
@@ -64,9 +62,9 @@
   "roguecraft.chat_messages.sp_ender_dragon": "Você ganhou %s✦ por derrotar Ender! Você possui %s✦ ao todo.",
   "roguecraft.chat_messages.sp_wildfire": "Você ganhou %s✦ por derrotar o Chama! Você possui %s✦ ao todo.",
   
-  "roguecraft.chat_messages.stronghold_generate": "A fortaleza foi gerada em %s %s",
-  "roguecraft.chat_messages.stronghold_location": "A fortaleza está em %s %s",
-  "roguecraft.chat_messages.stronghold_location_error": "A fortaleza ainda não foi gerada",
+  "roguecraft.chat_messages.stronghold_generate": "A stronghold foi gerada em %s %s",
+  "roguecraft.chat_messages.stronghold_location": "A stronghold está em %s %s",
+  "roguecraft.chat_messages.stronghold_location_error": "A stronghold ainda não foi gerada",
   "roguecraft.chat_messages.disable_ability_feedback": "Você desabilitou o feedback de Habilidades",
   "roguecraft.chat_messages.enable_ability_feedback": "Você reabilitou o feedback de Habilidades",
   "roguecraft.chat_messages.disable_sp_loss": "Você desabilitou a perda de Pontos de Skill",
@@ -95,11 +93,11 @@
   "roguecraft.chat_messages.error_max": "%s já está no nível máximo",
   "roguecraft.chat_messages.error_min": "Não é possível desaprimorar mais que isso",
   "roguecraft.chat_messages.error_max_incomplete": "Aprimoramentos esgotados; derrote mais bosses para quebrar seu limite",
-  "roguecraft.chat_messages.error_too_expensive": "Você não possui pontos para esse(a) %s",           // Antigamente isso funcionava dizendo nome genérico como "upgrade", "classe", ficar atento pra ver se vai mudar
+  "roguecraft.chat_messages.error_too_expensive": "Você não possui pontos para esse(a) %s",
   "roguecraft.chat_messages.error_selling": "Agache enquanto segura o %s para desaprimorar o(a) %s",
   "roguecraft.chat_messages.ability_error_item": "Você não liberou %s ainda; compre-o clicando com as mãos vazias, e então equipe",
   "roguecraft.chat_messages.ability_equip": "Você consagrou %s como sua %s %s",
-  "roguecraft.chat_messages.ability_unbind": "Sua %s habilidade se dissipa e volta aos primórdios..",   // O objetivo é que tenha "..." (3 pontos) finais, na teoria é pra ser assim, mas precisa de teste
+  "roguecraft.chat_messages.ability_unbind": "Sua %s habilidade se dissipa e volta aos primórdios..",
   "roguecraft.chat_messages.ability": "habilidade",
   "roguecraft.chat_messages.ability_equip_a1": "primeira",
   "roguecraft.chat_messages.ability_equip_a2": "segunda",
@@ -192,7 +190,7 @@
   "roguecraft.class.name.tank": "Tanque",
   "roguecraft.class.name.mage": "Mago",
   "roguecraft.class.name.healer": "Médico",
-  "roguecraft.class.name.glass_cannon": "Atirador",   // Referência a role do Lol focada em dano (Adc/Atirador)
+  "roguecraft.class.name.glass_cannon": "Atirador",
   "roguecraft.class.name.reaper": "Morte",
   "roguecraft.class.description.tank": "Você recebe mais vida; Habilidade: Ganhe Resistência V por 10 segundos",
   "roguecraft.class.description.mage": "Maior Regeneração de Mana e um slot extra de habilidade",
@@ -233,7 +231,7 @@
   "roguecraft.advancement.name.skillpoint_500": "Potencial DIVINO",
   "roguecraft.advancement.name.destroy_hub": "Pelo menos tentou!",
   "roguecraft.advancement.name.infinite_garden_void": "Não tão Imortal",
-  "roguecraft.advancement.name.first_ability": "Avara Keraba",            // Sim, eu meti essa diretamente de hogwarts rs
+  "roguecraft.advancement.name.first_ability": "Avara Keraba",
   "roguecraft.advancement.description.all_dummy": "Aprimore o Upgrade Teste até o máximo na sala de Tutorial",
   "roguecraft.advancement.description.avatar": "Tenha Jesus, Passos de Terra e Levitar tudo ao mesmo tempo",
   "roguecraft.advancement.description.completion": "Libere cada upgrade, habilidade e classe",
@@ -248,7 +246,7 @@
   "roguecraft.advancement.description.root": "Criado por MonoCode, trad por: R4in",
   "roguecraft.advancement.description.root_infinite_garden": "O Incrível Update 1.2",
   "roguecraft.advancement.description.run_complete": "Derrote Ender, o Tirano Dragão do Fim!",
-  "roguecraft.advancement.description.skillpoint_1": "Crie o seu primeiro Ponto de Skill",
+  "roguecraft.advancement.description.skillpoint_1": "Fabrique o seu primeiro Ponto de Skill",
   "roguecraft.advancement.description.skillpoint_100": "Consiga 100 pontos numa tentativa só",
   "roguecraft.advancement.description.speedrun": "Derrote Ender com um Nível de Dificuldade inferior a 5",
   "roguecraft.advancement.description.true_completion": "Consiga todas as conquistas de Roguecraft!! Agora, que tal uma pausinha?",
@@ -269,7 +267,7 @@
   "roguecraft.obelisk.tyrannus.main": "Sou quem provém ao Fim o terror e o medo. Derrote o Guardião dos Infernos para me encontrar.",
   "roguecraft.obelisk.tyrannus.defeat": "Ender eu já fui, o Tirano Dragão do Fim...",
   "roguecraft.obelisk.anima.inactive": "Nascido por um dever, meu poder cresce incessantemente. Enfrente-me assim que alcançar o meu auge, caso desejas encarar meu mestre.",
-  "roguecraft.obelisk.fatum.inactive": "Ainda não chegou a hora, Eterna Alma. Devo pedir por vossa paciência.", // Alma eterna não cabe nesse contexto aqui, é 'Eterna Alma' mesmo
+  "roguecraft.obelisk.fatum.inactive": "Ainda não chegou a hora, Eterna Alma. Devo pedir por vossa paciência.",
   "roguecraft.obelisk.divus.inactive": "* Você sente calafrios só de estar perto deste obelisco.",
 
   "roguecraft.loadout.sword": "Espada",
@@ -280,7 +278,7 @@
   "roguecraft.loadout.food": "Comida",
   "roguecraft.loadout.golden_apple": "Maçã Dourada",
   "roguecraft.loadout.pearl": "Pérolas",
-  "roguecraft.loadout.lore": "Usado para mudar seu Loadout",
+  "roguecraft.loadout.lore": "Usado para mudar seu Equipamento",
 
   "please_install_resource_pack_and_relog": "Introdução",
   "roguecraft.tutorial.title.vanilla_changes": "Mudanças do Vanilla",
@@ -341,7 +339,7 @@
   "roguecraft.tutorial.difficulty_level.page_4": "",
   
   "roguecraft.tutorial.progression.page_0": "----§oProgressão§r----\nA progressão foi basicamente refeita nessa datapack. Caso você esteja tendo dificuldades, tente liberar a \"Bússola Magnetizada\". Ela vai te guiar até o seu próximo objetivo enquanto você a segurar. É necessário segurá-la pra ela atualizar.",
-  "roguecraft.tutorial.progression.page_1": "Saiba que assim que uma Fortaleza for gerada, os Olhos de Ender não funciona-\nrão. As coordenadas vão simplesmente aparecer no chat pra você seguir. Caso precise ver de novo, só digitar o comando \"/trigger stronghold_location\".",
+  "roguecraft.tutorial.progression.page_1": "Saiba que assim que uma Stronghold for gerada, os Olhos de Ender não funciona-\nrão. As coordenadas vão simplesmente aparecer no chat pra você seguir. Caso precise ver de novo, só digitar o comando \"/trigger stronghold_location\".",
   "roguecraft.tutorial.progression.page_2": "-----§oObeliscos§r-----\n\nFicam em uma sala estranha chamada de 'Selos' dentro do Domo Cósmico. Analisá-los com um clique esquerdo pode ser... interessante. Quem sabe as essências que vazam deles podem dar uma dica sobre o que fazer até chegar ao fim.",
   "roguecraft.tutorial.progression.page_3": "",
 
@@ -349,7 +347,7 @@
   "roguecraft.tutorial.cosmic_dome.page_1": "-----Inventário-----\nEnquanto estiver no Domo Cósmico, você terá uns itens exó-\nticos em seu inven-\ntário. Os primeiros serão os \"Itens de Habilidade\" (slots) usado pra consagrar (equipar) as habili-\ndades que você liberar nas lojas, apenas clique nela com o item na mão.",
   "roguecraft.tutorial.cosmic_dome.page_2": "O próximo é o \"Desaprimorador\". Ao segurar shift com o item na mão, você pode desaprimorar qual-\nquer coisa. Mas, saiba que isso não retornará os pontos gastos de volta, serve apenas pra remover upgrades indesejados.",
   "roguecraft.tutorial.cosmic_dome.page_3": "O último item na tua hotbar é o \"Pronto\". Simplesmente aperte botão direito com ele na mão pra dar pronto. Assim que todos os players estiverem na fila, o jogo começará.",
-  "roguecraft.tutorial.cosmic_dome.page_4": "O resto do seu inven-\ntário tá cheio de itens do Loadout. Com eles, você pode editar o seu Loadout no baú com o mesmo nome (ele fica na entrada da área dos upgrades), e customizar antes de iniciar uma tentativa. Se você remover algum tipo de item do baú, ele não será",
+  "roguecraft.tutorial.cosmic_dome.page_4": "O resto do seu inven-\ntário tá cheio de itens de equipamento. Com eles, você pode editar o seu inventário no baú de equipamentos (ele fica na entrada da área dos upgrades), e customizar antes de iniciar uma tentativa. Se você remover algum tipo de item do baú, ele não será",
   "roguecraft.tutorial.cosmic_dome.page_5": "dado quando o jogo começar. Itens duplicados ou não registrados serão simplesmente removidos do seu inventário.",
   "roguecraft.tutorial.cosmic_dome.page_6": "--O Jardim Infinito--\nEssa é uma área es-\npecial que pode ser acessada ao leste da rosa dos ventos do Domo. Ela é feita pra você construir o que quiser com os mate-\nriais obtidos durante uma tentativa. O in-\nventário aparecerá como uma Luz vinda do céu, apenas se apro-\nxime para recuperar.",
   "roguecraft.tutorial.cosmic_dome.page_7": "É possível desbloque-\nar animais pro Jardim Infinito. Isso é com base na quantidade de Pontos de Skill que você conseguir no final de uma tentativa, ou seja, quanto mais alcançar, mais animais liberará, chegando a-\nté os 500 pontos. Qu-\nem sabe você encon-\ntrará um animalzinho bem especial assim!",
