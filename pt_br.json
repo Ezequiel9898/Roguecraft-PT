@@ -167,7 +167,7 @@
   "roguecraft.upgrade.name.dummy_upgrade": "Upgrade Teste",
   
   "roguecraft.ability.name.ability_explosion": "Explosão",
-  "roguecraft.ability.name.ability_mining": "Mineração em Área",
+  "roguecraft.ability.name.ability_mining": "Furadeira",
   "roguecraft.ability.name.ability_arrow_wave": "Onda de Flecha",
   "roguecraft.ability.name.ability_liquid_walker": "Jesus",
   "roguecraft.ability.name.ability_fireball": "Bola de Fogo",
@@ -177,7 +177,7 @@
   "roguecraft.ability.name.ability_levitate": "Levitar",
   "roguecraft.ability.name.ability_dirt_walker": "Passos de Terra",
   "roguecraft.ability.description.ability_explosion": "Cause uma explosão nas proximidades, destruindo terreno e dando dano",
-  "roguecraft.ability.description.ability_mining": "Minera uma área em volta de você. CUIDADO: Pode quebrar blocos indestrutíveis!",
+  "roguecraft.ability.description.ability_mining": "Minera blocos na direção que estiver olhando, não quebra blocos mais fortes que sua picareta",
   "roguecraft.ability.description.ability_arrow_wave": "Crie uma onda de flechas ao seu redor",
   "roguecraft.ability.description.ability_liquid_walker": "Crie um caminho, permitindo andar sobre água e lava",
   "roguecraft.ability.description.ability_fireball": "Atire uma bola de fogo que explode ao impacto",
