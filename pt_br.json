@@ -194,7 +194,7 @@
   "roguecraft.class.name.reaper": "Morte",
   "roguecraft.class.description.tank": "Você recebe mais vida; Habilidade: Ganhe Resistência V por 10 segundos",
   "roguecraft.class.description.mage": "Maior Regeneração de Mana e um slot extra de habilidade",
-  "roguecraft.class.description.healer": "Regenera a vida de Players próximos; Habilidade: Reviva um Player com um custo de 4 corações",
+  "roguecraft.class.description.healer": "Regenera a vida de Players próximos; Habilidade: Gaste parte de sua Vida Máxima para Reviver alguém",
   "roguecraft.class.description.glass_cannon": "Converte armadura em dano; Habilidade: O ataque é a melhor defesa!",
   "roguecraft.class.description.reaper": "Use almas ao invés de mana; Habilidade: Libere espíritos malignos",
   "roguecraft.class_ability.tank": "Escudo Impenetrável",
@@ -210,7 +210,7 @@
   "roguecraft.advancement.name.avatar": "Avatar",
   "roguecraft.advancement.name.completion": "100%",
   "roguecraft.advancement.name.difficulty_20": "Apocalipse",
-  "roguecraft.advancement.name.end_portal_destroyed": "E agora?",
+  "roguecraft.advancement.name.end_portal_destroyed": "E agora?",     // Será deletado a partir da versão 1.2.5
   "roguecraft.advancement.name.full_defense": "Durateston",
   "roguecraft.advancement.name.instant_delivery": "De volta pra você amigo",
   "roguecraft.advancement.name.instant_regret": "Arrependimento",
@@ -236,7 +236,7 @@
   "roguecraft.advancement.description.avatar": "Tenha Jesus, Passos de Terra e Levitar tudo ao mesmo tempo",
   "roguecraft.advancement.description.completion": "Libere cada upgrade, habilidade e classe",
   "roguecraft.advancement.description.difficulty_20": "Chegue ao Nível de Dificuldade 20",
-  "roguecraft.advancement.description.end_portal_destroyed": "Destrua o Portal do End com a Furadeira",
+  "roguecraft.advancement.description.end_portal_destroyed": "Destrua o Portal do End com a Furadeira",       // Será deletado a partir da versão 1.2.5
   "roguecraft.advancement.description.full_defense": "Aprimore até o máximo todos os upgrades sobre Defesa",
   "roguecraft.advancement.description.instant_delivery": "Mate um ghast usando Aparar",
   "roguecraft.advancement.description.instant_regret": "Morra em até 3 segundos após usar o Foco em Combate do Atirador",
