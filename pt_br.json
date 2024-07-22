@@ -210,7 +210,6 @@
   "roguecraft.advancement.name.avatar": "Avatar",
   "roguecraft.advancement.name.completion": "100%",
   "roguecraft.advancement.name.difficulty_20": "Apocalipse",
-  "roguecraft.advancement.name.end_portal_destroyed": "E agora?",     // Será deletado a partir da versão 1.2.5
   "roguecraft.advancement.name.full_defense": "Durateston",
   "roguecraft.advancement.name.instant_delivery": "De volta pra você amigo",
   "roguecraft.advancement.name.instant_regret": "Arrependimento",
@@ -236,7 +235,6 @@
   "roguecraft.advancement.description.avatar": "Tenha Jesus, Passos de Terra e Levitar tudo ao mesmo tempo",
   "roguecraft.advancement.description.completion": "Libere cada upgrade, habilidade e classe",
   "roguecraft.advancement.description.difficulty_20": "Chegue ao Nível de Dificuldade 20",
-  "roguecraft.advancement.description.end_portal_destroyed": "Destrua o Portal do End com a Furadeira",       // Será deletado a partir da versão 1.2.5
   "roguecraft.advancement.description.full_defense": "Aprimore até o máximo todos os upgrades sobre Defesa",
   "roguecraft.advancement.description.instant_delivery": "Mate um ghast usando Aparar",
   "roguecraft.advancement.description.instant_regret": "Morra em até 3 segundos após usar o Foco em Combate do Atirador",
@@ -370,6 +368,8 @@
   "roguecraft.chat_messages.golden_scythe_no_requirements": "Requisitos ainda não cumpridos",
   "roguecraft.chat_messages.golden_scythe_equip": "Você incorpora o magnífico poder da Foice Dourada",
   "roguecraft.chat_messages.golden_scythe_unequip": "Você decide se abster da incrível Foice Dourada",
+
+  "death.attack.generic.item": "%s descobriu que existe consequências nesse mundo",
 
   "if_you_see_this_message_then_you_need_to_download_the_resource_pack_from_modrinth": "",
   "if_you_already_installed_the_resource_pack_try_to_relog": ""
