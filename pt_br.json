@@ -167,7 +167,7 @@
   "roguecraft.upgrade.name.dummy_upgrade": "Upgrade Teste",
   
   "roguecraft.ability.name.ability_explosion": "Explosão",
-  "roguecraft.ability.name.ability_mining": "Mineração em Área",
+  "roguecraft.ability.name.ability_mining": "Furadeira",
   "roguecraft.ability.name.ability_arrow_wave": "Onda de Flecha",
   "roguecraft.ability.name.ability_liquid_walker": "Jesus",
   "roguecraft.ability.name.ability_fireball": "Bola de Fogo",
@@ -177,7 +177,7 @@
   "roguecraft.ability.name.ability_levitate": "Levitar",
   "roguecraft.ability.name.ability_dirt_walker": "Passos de Terra",
   "roguecraft.ability.description.ability_explosion": "Cause uma explosão nas proximidades, destruindo terreno e dando dano",
-  "roguecraft.ability.description.ability_mining": "Minera uma área em volta de você. CUIDADO: Pode quebrar blocos indestrutíveis!",
+  "roguecraft.ability.description.ability_mining": "Minera blocos na direção que estiver olhando, não quebra blocos mais fortes que sua picareta",
   "roguecraft.ability.description.ability_arrow_wave": "Crie uma onda de flechas ao seu redor",
   "roguecraft.ability.description.ability_liquid_walker": "Crie um caminho, permitindo andar sobre água e lava",
   "roguecraft.ability.description.ability_fireball": "Atire uma bola de fogo que explode ao impacto",
@@ -194,7 +194,7 @@
   "roguecraft.class.name.reaper": "Morte",
   "roguecraft.class.description.tank": "Você recebe mais vida; Habilidade: Ganhe Resistência V por 10 segundos",
   "roguecraft.class.description.mage": "Maior Regeneração de Mana e um slot extra de habilidade",
-  "roguecraft.class.description.healer": "Regenera a vida de Players próximos; Habilidade: Reviva um Player com um custo de 4 corações",
+  "roguecraft.class.description.healer": "Regenera a vida de Players próximos; Habilidade: Gaste parte de sua Vida Máxima para Reviver alguém",
   "roguecraft.class.description.glass_cannon": "Converte armadura em dano; Habilidade: O ataque é a melhor defesa!",
   "roguecraft.class.description.reaper": "Use almas ao invés de mana; Habilidade: Libere espíritos malignos",
   "roguecraft.class_ability.tank": "Escudo Impenetrável",
@@ -210,7 +210,6 @@
   "roguecraft.advancement.name.avatar": "Avatar",
   "roguecraft.advancement.name.completion": "100%",
   "roguecraft.advancement.name.difficulty_20": "Apocalipse",
-  "roguecraft.advancement.name.end_portal_destroyed": "E agora?",
   "roguecraft.advancement.name.full_defense": "Durateston",
   "roguecraft.advancement.name.instant_delivery": "De volta pra você amigo",
   "roguecraft.advancement.name.instant_regret": "Arrependimento",
@@ -236,7 +235,6 @@
   "roguecraft.advancement.description.avatar": "Tenha Jesus, Passos de Terra e Levitar tudo ao mesmo tempo",
   "roguecraft.advancement.description.completion": "Libere cada upgrade, habilidade e classe",
   "roguecraft.advancement.description.difficulty_20": "Chegue ao Nível de Dificuldade 20",
-  "roguecraft.advancement.description.end_portal_destroyed": "Destrua o Portal do End com a Mineração em Área",
   "roguecraft.advancement.description.full_defense": "Aprimore até o máximo todos os upgrades sobre Defesa",
   "roguecraft.advancement.description.instant_delivery": "Mate um ghast usando Aparar",
   "roguecraft.advancement.description.instant_regret": "Morra em até 3 segundos após usar o Foco em Combate do Atirador",
@@ -329,7 +327,7 @@
   "roguecraft.tutorial.vanilla_changes.page_1": "bem mais difícil, então é bom investir um pouco na defesa no começo. A segunda é bem mais impactante e acaba com o 'Craft' de Minecraft. Armaduras e armas só poderão ser desbloqueadas através de upgrades. Isso mesmo meu amigo, vários craftings tão desabilitados!",
   "roguecraft.tutorial.vanilla_changes.page_2": "Não é mais possível fazer:\n\nFerramentas (picaretas, pás, machados, enxadas e etc), armas (espadas e arcos) e por fim qualquer tipo de armadura. ",
   "roguecraft.tutorial.vanilla_changes.page_3": "Porém, ainda é possível craftar:\n\nPederneira, balde, escudos, besta (arco mais forte), capacete de tortugas, tesouras e varas de pesca, além de outros itens não tão essenciais.",
-  "roguecraft.tutorial.vanilla_changes.page_4": "O jogo seria natural-\nmente impossível de vencer com nada, então você começa com uma picareta de pedra. Acredite ou não, dá pra zerar a datapack com esses itens! Mas requer muita técnica e habilidade, temos um canal dedicado à speedruns no discord, então cola lá!", // Incerto dessa crase aqui (preguiça de pesquisar sobre)
+  "roguecraft.tutorial.vanilla_changes.page_4": "O jogo seria natural-\nmente impossível de vencer com nada, então você começa com uma picareta de pedra. Acredite ou não, dá pra zerar a datapack com esses itens! Mas requer muita técnica e habilidade, temos um canal dedicado à speedruns no discord, então cola lá!",
   "roguecraft.tutorial.vanilla_changes.page_5": "Todos os itens que você conseguir com os upgrades terão durabilidade infinita, mas é possível obtê-los sem comprá-los com pontos, através dos baús de loot ou trocas com aldeões. Mesmo sendo uma estratégia inconsis-\ntente, ainda dá uma adiantada...",
   
   "roguecraft.tutorial.difficulty_level.page_0": "-§oNível De Dificuldade§r-\nOs Níveis de Dificul-\ndade são uma adição nova que deixam as coisas muito mais animadas. Ele vai aparecer no topo da tua tela assim que iniciar uma tentativa, e vai aumentar até que chegue em um novo nível. Na dificuldade 1, nada muda comparado ao Vanilla.",
@@ -370,6 +368,8 @@
   "roguecraft.chat_messages.golden_scythe_no_requirements": "Requisitos ainda não cumpridos",
   "roguecraft.chat_messages.golden_scythe_equip": "Você incorpora o magnífico poder da Foice Dourada",
   "roguecraft.chat_messages.golden_scythe_unequip": "Você decide se abster da incrível Foice Dourada",
+
+  "death.attack.generic.item": "%s descobriu que existe consequências nesse mundo",
 
   "if_you_see_this_message_then_you_need_to_download_the_resource_pack_from_modrinth": "",
   "if_you_already_installed_the_resource_pack_try_to_relog": ""
