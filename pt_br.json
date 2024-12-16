@@ -337,8 +337,8 @@
   "roguecraft.chat_messages.enable_new_world_timer": "Você ativou o temporizador em 'Novo Mundo'",
   "roguecraft.chat_messages.disable_new_world_timer": "Você desativou o temporizador em 'Novo Mundo'",
   "roguecraft.chat_messages.golden_scythe_no_requirements": "Requisitos ainda não cumpridos",
-  "roguecraft.chat_messages.golden_scythe_equip": "Você incorpora o magnífico poder da Foice Dourada",
-  "roguecraft.chat_messages.golden_scythe_unequip": "Você decide se abster da incrível Foice Dourada",
+  "roguecraft.chat_messages.golden_scythe_equip": "Você incorpora o magnífico poder da Foice de Ouro",
+  "roguecraft.chat_messages.golden_scythe_unequip": "Você decide se abster da incrível Foice de Ouro",
   "death.attack.generic.item": "%s descobriu que suas ações têm consequências",
   "if_you_see_this_message_then_you_need_to_download_the_resource_pack_from_modrinth": "",
   "if_you_already_installed_the_resource_pack_try_to_relog": ""
